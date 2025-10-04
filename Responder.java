@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.Random;
+import java.util.HashSet;
 
 /**
  * The responder class represents a response generator object. It is used

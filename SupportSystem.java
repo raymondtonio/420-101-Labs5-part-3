@@ -1,3 +1,4 @@
+import java.util.HashSet;
 /**
  * This class implements a technical support system. It is the top level class 
  * in this project. The support system communicates via text input/output 
@@ -10,6 +11,7 @@
  * 
  * @author  Michael Kölling and David J. Barnes
  * @version 7.2
+
  */
 public class SupportSystem
 {
